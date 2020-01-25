@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -61,4 +61,4 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Rocketseat/semana-omnistack-10/blob/master/LICENSE.md) para mais detalhes.
