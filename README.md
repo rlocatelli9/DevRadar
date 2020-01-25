@@ -1,11 +1,8 @@
 h1 align="center">
-<img alt="DevRadar" title="#delicinha" src="./web/src/assets/DevRadar-logo.png" width="250px" />
+<img alt="DevRadar" title="#delicinha" src="./github/DevRadar-logo.png" width="250px" />
 
 </h1>
 
-<h4 align="center">
-DevRadar - Semana OmniStack 10.0
-</h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rlocatelli9/DevRadar">
 
